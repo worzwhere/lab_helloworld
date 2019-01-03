@@ -1,0 +1,69 @@
+ดูเพิ่ม
+
+Git flow (ไปอ่าน) version control
+
+หน้าที่ช่วยทำ control version 
+Version control เป็น code ที่เป็น version prod 
+Branch คือการ copy code ไปอีกที่นึง master เป็น branch prod code
+Dev branch เป็น
+
+Release branch เอาcode ขึ้นไปเรียงกันเช่น 0.1 0.2 
+
+
+Dev แตก เป็น feature branch 
+User req 
+User story 
+
+และนอกจากนี้ ในบางที่ที่มีการทำ Continuous Integration (CI) ที่จะดึง Commit จาก Remote ไปทำ Testing ถ้าเรา Push บ่อยๆแล้ว Test เกิด Failed ขึ้นมาก็จะทำให้รู้ตัวได้ไวและแก้ไขได้ทันที
+
+
+##############################################
+
+Ci คือการทำ Continuous Integration (CI)	
+Package source code deploy 
+
+
+Cd
+
+Agile
+
+รู้พื้นฐานของ บ ที่ทำงาน
+Docker kubernetes 
+
+
+Ci/cd
+ช่วยทำ deploy ให้
+จะ deploy ไปcode จะดึงไปให้เลย continues deployment
+
+โปรแกรมต้องรันบน container 
+
+Regression test คือการทำการเทสทั้งหมดใหม่ทำพวก impact analy 
+ถ้ามี automation tools มาช่วยเทส module ตามที่เรากำหนด run unit test เป็นโปรแกรมเขียนขึ้นเพื่อเทส 
+selenium automation testing 
+Func ที่พัฒนา sit test ที่ function นี่แล้ว
+
+Code review จะมี pattern แบบ best practice ให้ ช่วยรีวิวให้ SonarQube
+
+https://www.softwaretestinghelp.com/code-review-tools/
+
+Incident bug  hot fix workaround
+
+
+Api ระบบนึงคุยกะระบบนึง คือการ integration 
+Web service คือเครื่องมือนึง soap wsdl ใช้เรียกว่าต้องการ func อะไรบ้าง (xml) and rest (json) ใช้ http protocol	
+Expose api. ออกไปให้อันนึงเรียก
+
+Expose APIs คือ micro service เช่นการแปลงเงินบาท เช่น scb 
+
+Openapi and spec ถ้าจะเรียกอันนี้จะต้องปั้น header ยังไง 
+Swagger https://swagger.io/ swagger example api
+
+
+ใช้ versin control
+เลือกภาษานึงมาเขียนเป็นโปรเจค หรือดึงจากสำเร็จรูป
+
+
+Sub version เป็นชื่อ software ควรรู้ 
+
+
+Git ใช้เก็บ text base 

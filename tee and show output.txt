@@ -1,0 +1,5 @@
+https://unix.stackexchange.com/questions/80707/how-to-output-text-to-both-screen-and-file-inside-a-shell-script/80708
+
+example
+
+ls -lart | tee -a count.txt

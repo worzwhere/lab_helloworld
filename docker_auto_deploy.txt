@@ -1,0 +1,25 @@
+cat > auto.sh << "EXIT"
+
+mkdir Docker && cd Docker
+
+cat > Dockerfile << "EOF"
+FROM ubuntu:16.04
+MAINTAINER W0RzWhere
+RUN apt-get update
+RUN apt-get install -y python
+RUN apt-get install -y nodejs
+RUN apt-get install -y npm
+EOF
+
+
+chmod 755 Dockerfile
+read -p "Please insert the server name : " NAME
+docker build -t $NAME .
+
+docker images
+
+EXIT
+chmod 755 auto.sh
+
+
+docker rmi $(docker images -a -q)

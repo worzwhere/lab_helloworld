@@ -1,0 +1,1 @@
+find /home/arcus/jasperreports-server-cp-7.1.0/apache-tomcat/temp/ -name 'virt*' -exec rm -f {} \;

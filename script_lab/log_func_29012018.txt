@@ -1,0 +1,28 @@
+total 36
+-rwxr-xr-x 1 worawut 1049089  687 Dec 20 10:34 case.sh
+-rwxr-xr-x 1 worawut 1049089  566 Dec 20 10:51 select.sh
+-rw-r--r-- 1 worawut 1049089  289 Dec 20 11:02 dsk
+-rwxr-xr-x 1 worawut 1049089  435 Dec 20 11:14 sysmon.sh
+-rw-r--r-- 1 worawut 1049089  324 Dec 21 16:57 test3.sh
+-rwxr-xr-x 1 worawut 1049089  972 Dec 21 17:01 new2.sh
+-rw-r--r-- 1 worawut 1049089  129 Dec 25 11:16 netstat_while.sh
+-rw-r--r-- 1 worawut 1049089  255 Dec 29 14:07 dude
+-rw-r--r-- 1 worawut 1049089  915 Jan  5 15:20 stspser.sh
+drwxr-xr-x 1 worawut 1049089    0 Jan 29 09:42 ..
+drwxr-xr-x 1 worawut 1049089    0 Jan 29 10:15 example
+-rw-r--r-- 1 worawut 1049089  159 Jan 29 15:13 tee and show output.txt
+-rw-r--r-- 1 worawut 1049089 1027 Jan 29 15:22 ls.txt
+drwxr-xr-x 1 worawut 1049089    0 Jan 29 15:55 Working
+-rw-r--r-- 1 worawut 1049089 1377 Jan 29 17:02 test_func_and_tee.sh
+drwxr-xr-x 1 worawut 1049089    0 Jan 29 17:02 .
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   97G  142G  41% /
+D:                    221G  1.6G  219G   1% /d
+
+Function hi
+comeon
+hi
+
+Function hello
+Hello!
+completed
